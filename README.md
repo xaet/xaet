@@ -12,7 +12,7 @@
     <h2 align="center"></h2>
      <div align="center">
         <p><a href="https://github.com/xaet"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xaet&theme=transparent&animation=stagger" width="660" alt="xaet"></a></p>
-                  <img width="660" src="https://github-readme-streak-stats.herokuapp.com/?user=xaet&amp;theme=transparent&amp;hide_border=false">
+                  <img width="660" src="https://github-readme-streak-stats.herokuapp.com/?user=xaet&amp;theme=transparent&amp;hide_border=true">
   </div>
       <h3 align="center"></h3>
         <p align="center">
