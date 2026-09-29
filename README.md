@@ -11,13 +11,13 @@
   <div>
     <h2 align="center"></h2>
      <div align="center">
-        <p><a href="https://github.com/xaet"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xaet&theme=swift&animation=stagger" width="660" alt="xaet"></a></p>
-                  <img width="660" src="https://github-readme-streak-stats.herokuapp.com/?user=xaet&amp;theme=swift&amp;hide_border=false">
+        <p><a href="https://github.com/xaet"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xaet&theme=transparent&animation=stagger" width="660" alt="xaet"></a></p>
+                  <img width="660" src="https://github-readme-streak-stats.herokuapp.com/?user=xaet&amp;theme=transparent&amp;hide_border=false">
   </div>
       <h3 align="center"></h3>
         <p align="center">
-          <img width="45%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xaet&theme=swift&animation=stagger&utcOffset=0">
-          <img width="45%" src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xaet&theme=swift&animation=stagger">
+          <img width="45%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xaet&theme=transparent&animation=stagger&utcOffset=0">
+          <img width="45%" src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xaet&theme=transparent&animation=stagger">
           </a>
        </p>
   <h3 align="center"></h3>
@@ -25,8 +25,8 @@
       </p>
         <p align="center">
           <a href="https://github.com/xaet/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaet&theme=swift&animation=stagger">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xaet&theme=swift&animation=stagger">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xaet&theme=transparent&animation=stagger">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xaet&theme=transparent&animation=stagger">
           </a>
         </p>
      <br>
