@@ -1,4 +1,4 @@
-<h2 align="center" id="welcome">Bio</h3>
+<h2 align="center" id="welcome">About</h3>
 <p align="center">
   <a href="https://github.com/xaet/xaet"><img src="https://readme-typing-svg.herokuapp.com?color=%fffff&amp;center=true&amp;vCenter=true&amp;lines=hi;im+riri;15+yo+high+school+student;from+novosibirsk+russia"></a>
 </p>
